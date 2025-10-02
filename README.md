@@ -1,3 +1,3 @@
-# Project1
+#  Networking Project
 
-# Networking Project 1 readme, fill this in later
+# Matthew Thomas, William Smith, Emily Campos
